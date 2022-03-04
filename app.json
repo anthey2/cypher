@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/gzmike/pythontest",
-  "repository": "https://github.com/gzmike/pythontest",
+  "website": "",
+  "repository": "",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
