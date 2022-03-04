@@ -1,5 +1,5 @@
 ## v2ray-heroku
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/gzmike/pathan) https://github.com/gzmike/go/edit/main/README.md
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/gzmike/pathantest) 
 
 ### heroku上部署v2ray
 - [x] 支持VMess和VLESS两种协议
@@ -37,7 +37,7 @@
 
 0.给本项目个stars
 
-1.将本项目fork至自己仓库修改`Deploy to Heroku`按键指向地址为自己仓库地址
+1.将本项目fork至自己仓库修改`Deploy to Heroku`按键指向地址为自己仓库地址："deploy?template="后面改为自己的仓库地址就可以了
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/DaoChen6/IF-XTW) 
 
